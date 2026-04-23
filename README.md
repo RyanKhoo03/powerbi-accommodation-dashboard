@@ -7,7 +7,7 @@ Analyse a 10,000+ record student accommodation dataset to identify inefficiencie
 - Power BI  
 - Power Query (ETL)
 
-## What I Did
+## Cleaning, Visualisation & Analysis
 - Cleaned and transformed raw data using Power Query (dates, capacity, applicant type)  
 - Built interactive dashboards to track offer flows, contracts, and terminations  
 - Analysed trends across applicant groups and time periods  
