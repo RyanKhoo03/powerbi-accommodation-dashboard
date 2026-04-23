@@ -1,4 +1,4 @@
-# 🏠 Student Accommodation Analytics Dashboard
+# Student Accommodation Analytics Dashboard
 
 ## Objective
 Analyse a 10,000+ record student accommodation dataset to identify inefficiencies in offer processing and allocation.
@@ -17,3 +17,5 @@ Analyse a 10,000+ record student accommodation dataset to identify inefficiencie
 - Suggests need for improved prioritisation logic and process optimisation in allocation workflows  
 
 ## Output
+<img width="1423" height="792" alt="image" src="https://github.com/user-attachments/assets/0b458ce8-0055-4d46-b3ea-38d60a6ad15d" />
+<img width="1426" height="793" alt="image" src="https://github.com/user-attachments/assets/9bef2fc7-3ee5-450a-9278-4f5cd5dd4fef" />
