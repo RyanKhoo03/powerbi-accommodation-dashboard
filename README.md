@@ -1,4 +1,4 @@
-# Student Accommodation Analytics Dashboard
+# Student Accommodation Analytics PowerBI Dashboard
 
 ## Objective
 Analyse a 10,000+ record student accommodation dataset to identify inefficiencies in offer processing and allocation.
