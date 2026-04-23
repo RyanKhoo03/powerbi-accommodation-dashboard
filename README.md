@@ -13,8 +13,8 @@ Analyse a 10,000+ record student accommodation dataset to identify inefficiencie
 - Analysed trends across applicant groups and time periods  
 
 ## Key Insight
-- Priority applicant groups (Indigenous and scholarship students) experienced the longest delays, revealing a gap between institutional intent and operational outcomes  
-- Suggests need for improved prioritisation logic and process optimisation in allocation workflows  
+- Priority applicant groups (Indigenous and scholarship students) experienced the longest delays, revealing a gap between institutional intent and operational outcome. 
+- Improvement of prioritisation logic in workflow is needed to bridge this gap.
 
 ## Output
 https://github.com/RyanKhoo03/powerbi-accommodation-dashboard/blob/main/Accomodation%20Dashboard%20Project.pdf
