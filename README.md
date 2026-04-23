@@ -17,7 +17,8 @@ Analyse a 10,000+ record student accommodation dataset to identify inefficiencie
 - Improvement of prioritisation logic in workflow is needed to bridge this gap.
 
 ## Output
-https://github.com/RyanKhoo03/powerbi-accommodation-dashboard/blob/main/Accomodation%20Dashboard%20Project.pdf
+Link to pdf view: https://github.com/RyanKhoo03/powerbi-accommodation-dashboard/blob/main/Accomodation%20Dashboard%20Project.pdf
+
 <img width="1423" height="792" alt="image" src="https://github.com/user-attachments/assets/0b458ce8-0055-4d46-b3ea-38d60a6ad15d" />
 <img width="1426" height="793" alt="image" src="https://github.com/user-attachments/assets/9bef2fc7-3ee5-450a-9278-4f5cd5dd4fef" />
 <img width="1423" height="789" alt="image" src="https://github.com/user-attachments/assets/129bb86a-3ddb-4a8e-8b01-6b81dcb52e48" />
